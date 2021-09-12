@@ -1,6 +1,6 @@
 using System;
 
-namespace netcore_kestrol_server
+namespace netcore_kestrel_server
 {
     public class WeatherForecast
     {

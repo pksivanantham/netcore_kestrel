@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace netcore_kestrol_server.Controllers
+namespace netcore_kestrel_server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

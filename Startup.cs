@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
-namespace netcore_kestrol_server
+namespace netcore_kestrel_server
 {
     public class Startup
     {
