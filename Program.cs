@@ -49,7 +49,7 @@ namespace netcore_kestrel_server
 
         public void DisposeContext(HttpContext context, Exception exception)
         {
-
+            
         }
 
         public Task ProcessRequestAsync(HttpContext context)
